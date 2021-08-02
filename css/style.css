@@ -11,6 +11,9 @@ html {
 body {
   box-sizing: border-box; }
 
+* {
+  scroll-behavior: smooth; }
+
 @keyframes moveInLeft {
   0% {
     opacity: 0;
